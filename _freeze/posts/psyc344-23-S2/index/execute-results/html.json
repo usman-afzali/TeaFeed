@@ -1,0 +1,15 @@
+{
+  "hash": "83712299862819275611f8753e91054d",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Intermediate Research Methods and Statistics (PSYC344) - 2023 Semester 2 (Campus Cohort) - Teaching Evaluation\"\ndate: \"2023-11-20\"\ncategories: [lecturer]\nengine: knitr\ncv:\n  pdf: \"PSYC344-23S2-(C)PSYC344-23S2-(C)-IntermediateResearchMethodsandStatisticsUsmanAfzali_UsmanAfzali-2.pdf\"\n---\n\n\nAverage rating 4.31 out of 5.\n\n:::: {.columns}\n\n::: {.column width=\"5%\"}\n\n:::\n\n::: {.column width=\"75%\"}\nItem\n:::\n\n::: {.column width=\"20%\"}\nRating (out of 5)\n:::\n::::\n\n\n:::: {.columns}\n\n::: {.column width=\"5%\"}\n1.\n:::\n\n::: {.column width=\"75%\"}\nUsman Afzali's classes/sessions were well organised.\n:::\n\n::: {.column width=\"20%\"}\n4.33\n:::\n::::\n\n\n\n:::: {.columns}\n\n::: {.column width=\"5%\"}\n2.\n:::\n\n::: {.column width=\"75%\"}\nUsman Afzali was able to communicate ideas and information clearly.\n:::\n\n::: {.column width=\"20%\"}\n4.23\n:::\n::::\n\n\n\n:::: {.columns}\n\n::: {.column width=\"5%\"}\n3.\n:::\n\n::: {.column width=\"75%\"}\nUsman Afzali stimulated my interest in the subject area.\n:::\n\n::: {.column width=\"20%\"}\n3.91\n:::\n::::\n\n\n\n:::: {.columns}\n\n::: {.column width=\"5%\"}\n4.\n:::\n\n::: {.column width=\"75%\"}\nUsman Afzali’s attitude towards students was good.\n:::\n\n::: {.column width=\"20%\"}\n4.71\n:::\n::::\n\n\n:::: {.columns}\n\n::: {.column width=\"5%\"}\n5.\n:::\n\n::: {.column width=\"75%\"}\nOverall, Usman Afzali is an effective teacher.\n:::\n\n::: {.column width=\"20%\"}\n4.37\n:::\n::::\n\n\n\n::: {.cell}\n<style type=\"text/css\">\n.embed-container {\n    position: relative;\n    padding-bottom: 129%;\n    height: 0;\n    overflow: hidden;\n    max-width: 100%;\n}\n\n.embed-container iframe,\n.embed-container object,\n.embed-container embed {\n    position: absolute;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n}\n</style>\n:::\n\n```{=html}\n<p class=\"text-center\">\n  <a class=\"btn btn-primary btn-lg cv-download\" href=\"PSYC344-23S2-(C)PSYC344-23S2-(C)-IntermediateResearchMethodsandStatisticsUsmanAfzali_UsmanAfzali-2.pdf\" target=\"_blank\">\n    <i class=\"fa-solid fa-file-arrow-down\"></i>&ensp;See detailed feedback below\n  </a>\n</p>\n\n<div class=\"embed-container\">\n  <iframe src=\"PSYC344-23S2-(C)PSYC344-23S2-(C)-IntermediateResearchMethodsandStatisticsUsmanAfzali_UsmanAfzali-2.pdf\" style=\"border: 0.5px\"></iframe>\n</div>\n```\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

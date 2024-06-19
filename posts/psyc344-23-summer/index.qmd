@@ -1,0 +1,142 @@
+---
+title: "Intermediate Research Methods and Statistics (PSYC344) - 2023 Summer Course - Teaching Evaluation"
+date: "2024-02-20"
+categories: [lecturer]
+engine: knitr
+cv:
+  pdf: "PSYC344-23SU2PSYC344-23SU2-IntermediateResearchMethodsandStatisticsUsmanAfzali_UsmanAfzali-2.pdf"
+---
+
+Average rating `r round((4.41 + 4.29 + 4.06 + 4.49 + 4.37)/5,2)` out of 5.
+
+:::: {.columns}
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="75%"}
+Item
+:::
+
+::: {.column width="20%"}
+Rating (out of 5)
+:::
+::::
+
+
+:::: {.columns}
+
+::: {.column width="5%"}
+1.
+:::
+
+::: {.column width="75%"}
+Usman Afzali's classes/sessions were well organised.
+:::
+
+::: {.column width="20%"}
+4.41
+:::
+::::
+
+
+
+:::: {.columns}
+
+::: {.column width="5%"}
+2.
+:::
+
+::: {.column width="75%"}
+Usman Afzali was able to communicate ideas and information clearly.
+:::
+
+::: {.column width="20%"}
+4.29
+:::
+::::
+
+
+
+:::: {.columns}
+
+::: {.column width="5%"}
+3.
+:::
+
+::: {.column width="75%"}
+Usman Afzali stimulated my interest in the subject area.
+:::
+
+::: {.column width="20%"}
+4.06
+:::
+::::
+
+
+
+:::: {.columns}
+
+::: {.column width="5%"}
+4.
+:::
+
+::: {.column width="75%"}
+Usman Afzali’s attitude towards students was good.
+:::
+
+::: {.column width="20%"}
+4.49
+:::
+::::
+
+
+:::: {.columns}
+
+::: {.column width="5%"}
+5.
+:::
+
+::: {.column width="75%"}
+Overall, Usman Afzali is an effective teacher.
+:::
+
+::: {.column width="20%"}
+4.37
+:::
+::::
+
+
+```{css echo=FALSE}
+.embed-container {
+    position: relative;
+    padding-bottom: 129%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+```
+
+```{=html}
+<p class="text-center">
+  <a class="btn btn-primary btn-lg cv-download" href="`r rmarkdown::metadata$cv$pdf`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;See detailed feedback below
+  </a>
+</p>
+
+<div class="embed-container">
+  <iframe src="`r rmarkdown::metadata$cv$pdf`" style="border: 0.5px"></iframe>
+</div>
+```
+
