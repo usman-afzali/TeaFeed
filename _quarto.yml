@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "teaching-feedback"
+  title: "Teaching Feedback"
   navbar:
     right:
       - about.qmd

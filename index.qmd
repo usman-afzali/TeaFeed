@@ -1,5 +1,5 @@
 ---
-title: "teaching-feedback"
+title: "Usman Afzali's Teaching Feedback"
 listing:
   contents: posts
   sort: "date desc"
@@ -9,6 +9,7 @@ listing:
   filter-ui: false
 page-layout: full
 title-block-banner: true
+toc: true
 ---
 
 
