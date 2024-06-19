@@ -1,0 +1,15 @@
+{
+  "hash": "e2da2a31bdcf521a596ac7a13658fd05",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Special Topic - Computational Contemplative-Neuroscience (PSYC480) - 2023 Semester 1 - Course Evaluation\"\ndate: \"2023-07-15\"\ncategories: [Postgraduate, Lecturer, Course coordinator]\nengine: knitr\ncv:\n  pdf: \"PSYC480-23S1PSYC480-23S1-SpecialTopicComputationalContemplative-Neuroscience-2.pdf\"\n---\n\n\n**Average rating**: 4.58/5.\n\n**Class size**: 8\n\n**Response Rate**: 8/8 (100.00%)\n\n:::: {.columns}\n\n::: {.column width=\"5%\"}\n\n:::\n\n::: {.column width=\"75%\"}\nItem\n:::\n\n::: {.column width=\"20%\"}\nRating (out of 5)\n:::\n::::\n\n\n:::: {.columns}\n\n::: {.column width=\"5%\"}\n1.\n:::\n\n::: {.column width=\"75%\"}\nThe materials provided helped me to understand what was required to succeed in this course.\n:::\n\n::: {.column width=\"20%\"}\n4.63\n:::\n::::\n\n\n\n:::: {.columns}\n\n::: {.column width=\"5%\"}\n2.\n:::\n\n::: {.column width=\"75%\"}\nThe organisation of this course helped me learn.\n:::\n\n::: {.column width=\"20%\"}\n4.50\n:::\n::::\n\n\n\n:::: {.columns}\n\n::: {.column width=\"5%\"}\n3.\n:::\n\n::: {.column width=\"75%\"}\nI found the workload was appropriate to the level of the course.\n:::\n\n::: {.column width=\"20%\"}\n4.00\n:::\n::::\n\n\n\n:::: {.columns}\n\n::: {.column width=\"5%\"}\n4.\n:::\n\n::: {.column width=\"75%\"}\nI found the assessments throughout the semester appropriate for the course.\n:::\n\n::: {.column width=\"20%\"}\n4.75\n:::\n::::\n\n\n:::: {.columns}\n\n::: {.column width=\"5%\"}\n5.\n:::\n\n::: {.column width=\"75%\"}\nWhere I sought feedback on my assessments, I found it helpful.\n:::\n\n::: {.column width=\"20%\"}\n5.00\n:::\n::::\n\n\n\n::: {.cell}\n<style type=\"text/css\">\n.embed-container {\n    position: relative;\n    padding-bottom: 129%;\n    height: 0;\n    overflow: hidden;\n    max-width: 100%;\n}\n\n.embed-container iframe,\n.embed-container object,\n.embed-container embed {\n    position: absolute;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n}\n</style>\n:::\n\n```{=html}\n<p class=\"text-center\">\n  <a class=\"btn btn-primary btn-lg cv-download\" href=\"PSYC480-23S1PSYC480-23S1-SpecialTopicComputationalContemplative-Neuroscience-2.pdf\" target=\"_blank\">\n    <i class=\"fa-solid fa-file-arrow-down\"></i>&ensp;See detailed feedback below\n  </a>\n</p>\n\n<div class=\"embed-container\">\n  <iframe src=\"PSYC480-23S1PSYC480-23S1-SpecialTopicComputationalContemplative-Neuroscience-2.pdf\" style=\"border: 0.5px\"></iframe>\n</div>\n```\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

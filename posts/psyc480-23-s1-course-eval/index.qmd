@@ -1,0 +1,145 @@
+---
+title: "Special Topic - Computational Contemplative-Neuroscience (PSYC480) - 2023 Semester 1 - Course Evaluation"
+date: "2023-07-15"
+categories: [Postgraduate, Lecturer, Course coordinator]
+engine: knitr
+cv:
+  pdf: "PSYC480-23S1PSYC480-23S1-SpecialTopicComputationalContemplative-Neuroscience-2.pdf"
+---
+
+**Average rating**: `r round((4.63 + 4.5 + 4 + 4.75 + 5)/5,2)`/5.
+
+**Class size**: 8
+
+**Response Rate**: 8/8 (100.00%)
+
+:::: {.columns}
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="75%"}
+Item
+:::
+
+::: {.column width="20%"}
+Rating (out of 5)
+:::
+::::
+
+
+:::: {.columns}
+
+::: {.column width="5%"}
+1.
+:::
+
+::: {.column width="75%"}
+The materials provided helped me to understand what was required to succeed in this course.
+:::
+
+::: {.column width="20%"}
+4.63
+:::
+::::
+
+
+
+:::: {.columns}
+
+::: {.column width="5%"}
+2.
+:::
+
+::: {.column width="75%"}
+The organisation of this course helped me learn.
+:::
+
+::: {.column width="20%"}
+4.50
+:::
+::::
+
+
+
+:::: {.columns}
+
+::: {.column width="5%"}
+3.
+:::
+
+::: {.column width="75%"}
+I found the workload was appropriate to the level of the course.
+:::
+
+::: {.column width="20%"}
+4.00
+:::
+::::
+
+
+
+:::: {.columns}
+
+::: {.column width="5%"}
+4.
+:::
+
+::: {.column width="75%"}
+I found the assessments throughout the semester appropriate for the course.
+:::
+
+::: {.column width="20%"}
+4.75
+:::
+::::
+
+
+:::: {.columns}
+
+::: {.column width="5%"}
+5.
+:::
+
+::: {.column width="75%"}
+Where I sought feedback on my assessments, I found it helpful.
+:::
+
+::: {.column width="20%"}
+5.00
+:::
+::::
+
+
+```{css echo=FALSE}
+.embed-container {
+    position: relative;
+    padding-bottom: 129%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+```
+
+```{=html}
+<p class="text-center">
+  <a class="btn btn-primary btn-lg cv-download" href="`r rmarkdown::metadata$cv$pdf`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;See detailed feedback below
+  </a>
+</p>
+
+<div class="embed-container">
+  <iframe src="`r rmarkdown::metadata$cv$pdf`" style="border: 0.5px"></iframe>
+</div>
+```
