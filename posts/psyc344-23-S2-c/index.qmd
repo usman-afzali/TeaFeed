@@ -1,7 +1,7 @@
 ---
 title: "Intermediate Research Methods and Statistics (PSYC344) - 2023 Semester 2 (Campus Cohort) - Teaching Evaluation"
-date: "2023-11-20"
-categories: [lecturer]
+date: "2023-12-15"
+categories: [lecturer, course coordinator]
 engine: knitr
 cv:
   pdf: "PSYC344-23S2-(C)PSYC344-23S2-(C)-IntermediateResearchMethodsandStatisticsUsmanAfzali_UsmanAfzali-2.pdf"

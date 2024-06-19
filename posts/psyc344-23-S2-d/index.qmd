@@ -1,13 +1,13 @@
 ---
-title: "Intermediate Research Methods and Statistics (PSYC344) - 2023 Summer Course - Teaching Evaluation"
-date: "2024-02-20"
+title: "Intermediate Research Methods and Statistics (PSYC344) - 2023 Semester 2 (Distance Cohort) - Teaching Evaluation"
+date: "2023-12-15"
 categories: [lecturer, course coordinator]
 engine: knitr
 cv:
-  pdf: "PSYC344-23SU2PSYC344-23SU2-IntermediateResearchMethodsandStatisticsUsmanAfzali_UsmanAfzali-2.pdf"
+  pdf: "PSYC344-23S2-(D)PSYC344-23S2-(D)-IntermediateResearchMethodsandStatisticsUsmanAfzali_UsmanAfzali-2.pdf"
 ---
 
-Average rating `r round((4.41 + 4.29 + 4.06 + 4.49 + 4.37)/5,2)` out of 5.
+Average rating `r round((4.43 + 3.78 + 3.57 + 4.43 + 4)/5,2)` out of 5.
 
 :::: {.columns}
 
@@ -36,7 +36,7 @@ Usman Afzali's classes/sessions were well organised.
 :::
 
 ::: {.column width="20%"}
-4.41
+4.43
 :::
 ::::
 
@@ -53,7 +53,7 @@ Usman Afzali was able to communicate ideas and information clearly.
 :::
 
 ::: {.column width="20%"}
-4.29
+3.78
 :::
 ::::
 
@@ -70,7 +70,7 @@ Usman Afzali stimulated my interest in the subject area.
 :::
 
 ::: {.column width="20%"}
-4.06
+3.57
 :::
 ::::
 
@@ -87,7 +87,7 @@ Usman Afzali’s attitude towards students was good.
 :::
 
 ::: {.column width="20%"}
-4.49
+4.43
 :::
 ::::
 
@@ -103,7 +103,7 @@ Overall, Usman Afzali is an effective teacher.
 :::
 
 ::: {.column width="20%"}
-4.37
+4.00
 :::
 ::::
 
